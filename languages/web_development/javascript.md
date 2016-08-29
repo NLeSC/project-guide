@@ -24,6 +24,10 @@ For direct manipulation of the HTML DOM tree and HTTP calls [jQuery](http://jque
 It can be used for single and multi-page web applications. 
 We advise to use [John Papas style guide](https://github.com/johnpapa/angularjs-styleguide) when making an Angular application.
 
+### Typescript
+An alternative to JavaScript is typescript. Typescript is a typed superset of JavaScript that is compiled into JavaScript for use in a browser.
+More information can be found in the [TypeScript part](typescript.md) of this gitbook.
+
 ## Web Standards Curriculum
 
 Another source of information for javascript, is the "web standards curriculum" made by the Web Education Community Group as part of W3C:

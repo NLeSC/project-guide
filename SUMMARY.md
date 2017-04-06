@@ -10,6 +10,7 @@
    * [Code Review](software/code_review.md)
    * [Testing](software/testing.md)
    * [Documentation](software/documentation.md)
+   * [Tutorial](software/tutorial.md)
    * [Development Setup](software/development_setup.md)
    * [Standards](software/standards.md)
    * [Checklist](software/checklist.md)
